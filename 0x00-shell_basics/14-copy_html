@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v "$html_file" ..
+cp -un *.html ../
